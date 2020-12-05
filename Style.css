@@ -186,7 +186,9 @@ body {
   max-height:25%;
   font-size: 18px;
   margin:10%;
- 
+  align-items: safe stretch;
+  
+
 }
 
 .item + .item {
