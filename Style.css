@@ -182,11 +182,11 @@ body {
   padding-bottom: 18%; /* 32:18, i.e. 16:9 */
   margin-bottom: 2%; /* (100-32*3)/2 */
   border-radius:10px;
-  height: 25%;
-  max-height:25%;
-  font-size: 18px;
-  margin:10%;
+  height:20%;
   align-items: safe stretch;
+  padding: 5%;
+  margin: 2%;
+  font-size:18;
   
 
 }
@@ -215,6 +215,6 @@ body {
 
 .image {
     padding: 5%;
-    margin: 2%;
+    margin: 4%;
 }
 
