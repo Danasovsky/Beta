@@ -169,30 +169,37 @@ body {
 .container {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-evenly;
+  justify-content: space evenly;
   content: center;
-  border-radius: 10px;
+  border-radius: 10px;  
+  margin: -2% 0%
+
+
+
 
 }
 
 .item {
   background: #ff3030;
-  width: 30%;
-  max-width:15%;
+  width:20%;
   padding-bottom: 18%; /* 32:18, i.e. 16:9 */
-  margin-bottom: 2%; /* (100-32*3)/2 */
   border-radius:10px;
   height:20%;
-  align-items: safe stretch;
-  padding: 5%;
-  margin: 2%;
-  font-size:18;
+  align-items: evenly;
+  padding: 0 2%;
+  margin: 5%;
+  font-size:18px;
+  
   
 
 }
 
 .item + .item {
   margin-left: 2%;
+
+}
+
+
 }
 
 .pagetitle {
@@ -210,11 +217,13 @@ body {
 .h3 {
       font-size: 24pt;
       font-weight:400;
+ 
     
 }
 
 .image {
     padding: 5%;
     margin: 4%;
+
 }
 
