@@ -159,7 +159,7 @@ section h2 {
   margin-top: 0px;
   font-size: 40px;
   position: absolute;
-  top: 103%;
+  top: 107%;
   left: 65%;
   color: #ff3030;
   display: inline-flex;
@@ -175,7 +175,7 @@ section .cards .text-card{
   padding: 20px;
   border-radius:10PX;
   font-size: 18px;
-  height:32vh;
+  height:28vh;
 }
 
 section .cards .text-card h3{
@@ -221,7 +221,6 @@ section .cards .text-card h3{
     background: #3b08d0;
     box-sizing: border-box;
     margin: 0;
-    
 }
 
 .fwh-about p{
